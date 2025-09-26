@@ -1,0 +1,6 @@
+[submodule "zet-flow-spring"]
+	path = zet-flow-spring
+	url = https://github.com/MihaelMajetic141/zet-flow-spring
+[submodule "zet-flow-angular"]
+	path = zet-flow-angular
+	url = https://github.com/MihaelMajetic141/zet-flow-angular
