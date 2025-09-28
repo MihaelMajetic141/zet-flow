@@ -50,4 +50,5 @@ It uses live [GSTR data](https://www.zet.hr/preuzimanja/odredbe/datoteke-u-gtfs-
 
 ## 🔬 App demo
 
+https://youtu.be/1fwst31ThS8
 
